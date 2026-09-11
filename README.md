@@ -6,7 +6,7 @@ An end-to-end data analytics project using the Brazilian E-Commerce public datas
 
 ## 📸 Executive Dashboard Preview
 
-![Full Dashboard Preview](dashboards/screenshots/full_dashboard.png)
+![Full Dashboard Preview](Dashboards/screenshots/full_dashboard.png)
 
 ---
 
